@@ -9,9 +9,8 @@ with no network and no randomness: the text is fixed in the source.
 import os
 
 LINE = (
-    "I can stop time \u2014 but only for as long as it takes me to notice "
-    "I stopped it, so my longest freeze is a personal best nobody will "
-    "ever see."
+    "I can stop time, but only until I notice I've stopped it \u2014 so "
+    "my longest freeze is a single confused blink nobody ever sees."
 )
 
 
